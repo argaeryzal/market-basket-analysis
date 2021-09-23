@@ -1,5 +1,5 @@
-# Market Basket Analysis using Apriori Model on R
-Kalian mungkin sering mendengar mengenai bagaimana banyak bisnis berkembang dan maju dengan cepat karena inovasi, baik itu inovasi di sisi produk ataupun bisnis.
+# Market Basket Analysis menggunakan Algoritma Apriori
+Kita mungkin sering mendengar mengenai bagaimana banyak bisnis berkembang dan maju dengan cepat karena inovasi, baik itu inovasi di sisi produk ataupun bisnis.
 
 Salah satu inovasi bisnis di bidang ritel adalah mencari asosiasi atau hubungan antar produk dari data transaksi penjualan yang bertujuan untuk:
 
@@ -31,7 +31,7 @@ Dan algoritma yang bisa kita gunakan adalah algoritma apriori yang merupakan alg
 Ada cukup banyak penerapan dari association rules , seperti di dunia cyber security untuk mendeteksi intrusi jaringan, di bidang sales marketing untuk pemaketan produk, mencari pola pemakaian web, dan lain-lain.
 
 ## Dataset Source
-Dataset yang akan digunakan dalam analysis kali ini berasal dari DQLab Academy, dengna link sebagai berikut https://storage.googleapis.com/dqlab-dataset/data_transaksi.txt
+Dataset yang akan digunakan dalam analysis kali ini berasal dari DQLab Academy, dengan link sebagai berikut https://storage.googleapis.com/dqlab-dataset/data_transaksi.txt
 
 ## Item Frequency
 Kita akan menghasilkan informasi menggunakan fungsi itemFrequency dengan input objek transaction, dan hasilnya berupa visualisasi plot seperti gambar dibawah ini.
